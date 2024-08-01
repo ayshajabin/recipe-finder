@@ -1,0 +1,26 @@
+
+
+.head{
+    font-size:40px;
+    font-weight: bolder;
+    color:rgb(195, 129, 84);
+    font-family:'Brush Script MT', cursive;  
+   
+}
+.btn{
+    color:rgb(247, 218, 178);
+    background-color:rgb(136, 74, 57);
+    border-radius:15px;
+}
+.btn:hover{
+    color:rgb(136, 74, 57);
+    background-color:rgb(195, 129, 84);
+}
+
+.nav{
+    background: rgb(136,74,57);
+    background: linear-gradient(90deg, rgba(136,74,57,1) 0%, rgba(249, 224, 187, 0.638));
+    width: 100%;
+}
+
+

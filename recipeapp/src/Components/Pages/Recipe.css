@@ -1,0 +1,30 @@
+
+.recipe{
+    text-align: center;
+    padding:60px;
+   
+}
+h1{
+    font-size:30px;
+    font-weight: bolder;
+    color:rgb(195, 129, 84);
+    font-family:'Brush Script MT', cursive;  
+}
+.search input{
+    padding: 8px;
+    border: 2px solid rgba(165, 42, 42, 0.482);
+    width:450px;
+    border-radius:15px;
+}
+.notfound{
+    font-size:50px;
+    font-weight: bolder;
+    color:rgba(195, 121, 84, 0.818);
+    font-family:monospace;  
+}
+.card{
+    height: 400px;
+    margin: 5px;
+    overflow:auto;
+
+}

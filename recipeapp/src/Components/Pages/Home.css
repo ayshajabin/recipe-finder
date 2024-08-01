@@ -1,0 +1,31 @@
+.home{
+    text-align: center;
+    
+}
+
+
+.home{
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    padding:4rem;
+}
+
+.head{
+    font-size:40px;
+    font-weight: bolder;
+    color:rgb(195, 129, 84);
+    font-family:'Brush Script MT', cursive;  
+    margin-top: 45px;
+   
+}
+.btn{
+    color:rgb(247, 218, 178);
+    background-color:rgb(136, 74, 57);
+    border-radius:15px;
+}
+.btn:hover{
+    color:rgb(136, 74, 57);
+    background-color:rgb(195, 129, 84);
+}
